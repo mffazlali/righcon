@@ -1,0 +1,73 @@
+.navWrapper {
+  @apply box-border w-10/12 md:flex flex flex-row flex-wrap items-center;
+}
+
+.menuList {
+  @apply hidden md:inline-flex ps-5;
+}
+
+.menuListSmall {
+  @apply md:hidden inline-flex ps-5 w-2/12;
+}
+
+.menuList .menuItem,
+.menuListSmall .menuItem {
+  @apply text-2xl text-black h-[32px] w-[32px];
+}
+
+.logo {
+  @apply md:hidden inline mx-auto;
+}
+
+.menuWrapper {
+  @apply md:flex flex md:flex-row flex-col md:w-auto w-10/12 justify-center md:items-center items-center mx-auto ps-[15%] md:mt-0 mt-8 transition-all;
+}
+
+.menuWrapperScroll {
+  @apply md:flex flex md:flex-row flex-col md:w-auto w-10/12 justify-center md:items-center items-center mx-auto md:mt-0 mt-8 transition-all;
+}
+
+.menuWrapperLarge {
+  @apply md:flex hidden md:flex-row flex-col md:w-auto w-full justify-center md:items-center items-start mx-auto ps-[15%] md:mt-0 mt-8 transition-all;
+}
+
+.menuWrapperHidden {
+  @apply md:flex hidden md:flex-row flex-col md:w-auto w-full justify-center md:items-center items-start mx-auto ps-[15%] md:mt-0 mt-8 transition-all;
+}
+
+.menuWrapperSmall {
+  @apply md:flex inline md:flex-row flex-col md:w-auto w-full justify-center md:items-center items-start md:mx-auto mx-0 md:mt-0 mt-8 transition-all;
+}
+
+.textItemWrapper {
+  @apply px-6 md:my-0 my-4 text-center text-base font-semibold leading-6 text-[#212529];
+}
+
+.textItemWrapper a {
+  @apply flex items-center;
+}
+
+.textItemWrapper a,
+.textItemWrapper svg {
+  @apply hover:text-primary text-black;
+}
+
+.iconItemWrapper {
+  @apply flex justify-center items-center h-[44px] w-[48px] relative;
+}
+
+.iconItemWrapper .iconItem {
+  @apply h-[20px] w-[20px];
+}
+
+.switchWrapper {
+  @apply flex justify-end p-7 w-2/12 box-border;
+}
+
+.textItemWrapper .active {
+  @apply text-primary;
+}
+
+.textItemWrapper .linkIcon {
+  @apply h-[18px] w-[18px] me-[10px];
+}

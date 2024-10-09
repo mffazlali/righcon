@@ -1,0 +1,21 @@
+.cardListIcon {
+}
+
+.cardListIcon .cardListIconContainer {
+}
+
+.cardListIcon .cardListIconContainer .cardTitleWrapper {
+    @apply ps-[50px] pb-8
+}
+
+.cardListIcon .cardListIconContainer .cardTitleWrapper .cardTitle {
+    @apply text-white text-right text-xl font-bold leading-6;
+}
+
+.cardListIcon .cardListIconContainer .cardContentWrapper {
+    @apply overflow-auto pb-2
+}
+
+.cardListIcon .cardListIconContainer .cardContentWrapper .cardContent {
+    @apply inline-flex flex-row gap-8;
+}

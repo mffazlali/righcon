@@ -1,0 +1,45 @@
+.send{
+    @apply bg-white md:block flex justify-center items-center box-border pb-5;
+}
+
+.send .sendContainer {
+    @apply pt-8 md:px-16 px-8 md:flex inline-flex md:flex-row flex-col;
+}
+
+.send .sendContainer .sendFormWrapper{
+    @apply w-full flex flex-col gap-2;
+}
+
+.send .sendContainer .sendFormWrapper .form{
+    @apply flex flex-col items-center gap-4 w-[300px];
+}
+
+.send .sendContainer .sendFormWrapper .form .inputWrapper{
+    @apply relative flex flex-col gap-1 w-full;
+}
+
+.send .sendContainer .sendFormWrapper .form .inputWrapper .input{
+    @apply !w-full h-[46px];
+}
+
+.send .sendContainer .sendFormWrapper .form .inputWrapper .error{
+    @apply text-red-800 text-sm;
+}
+
+.send .sendContainer .sendFormWrapper .form .inputEmail{
+    @apply w-full;
+}
+
+
+.send .sendContainer .sendFormWrapper .form .buttonWrapper{
+    @apply relative w-full flex justify-center;
+}
+
+.send .sendContainer .sendFormWrapper .form .button{
+    @apply flex flex-row justify-center items-center w-[120px] h-[46px] py-[10px] lg:px-6 md:px-4 px-3 bg-warning rounded-[4px] text-black transition-all ;
+}
+
+
+
+
+

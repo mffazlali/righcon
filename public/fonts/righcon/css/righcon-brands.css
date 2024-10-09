@@ -1,0 +1,223 @@
+:root, :host {
+  --ri-style-family-classic: 'iranIconAlpha';
+  --ri-font-regular: normal 400 1em/1 'iranIconAlpha'; }
+
+@font-face {
+  font-family: 'righcon brands';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../../public/fonts/righcon/webfonts/brands/righcon-brands-svg.ttf')
+  format('truetype');
+}
+
+.rib,
+.righcon-brands {
+  font-family: 'righcon brands' !important;
+  font-weight: 400 !important;
+  font-size: 100px !important;
+}
+
+.ri-bale::before {
+  content: '\e005' !important;
+}
+
+.ri-eita::before {
+  content: '\e006' !important;
+}
+
+.ri-gap::before {
+  content: '\e007' !important;
+}
+
+.ri-igap::before {
+  content: '\e008' !important;
+}
+
+.ri-rubica::before {
+  content: '\e010';
+}
+
+.ri-sourosh::before {
+  content: '\e009' !important;
+}
+
+.ri-tejaratBank::before {
+  content: '\e011' !important;
+}
+
+.ri-ayandehBank::before {
+  content: '\e012' !important;
+}
+
+.ri-centralBank::before {
+  content: '\e013' !important;
+}
+
+.ri-keshavarziBank::before {
+  content: '\e014' !important;
+}
+
+.ri-meliBank::before {
+  content: '\e015' !important;
+}
+
+.ri-mellatBank::before {
+  content: '\e016' !important;
+}
+
+.ri-parsianBank::before {
+  content: '\e017' !important;
+}
+
+.ri-samanBank::before {
+  content: '\e018' !important;
+}
+
+.ri-dayBank::before {
+  content: '\e019' !important;
+}
+
+.ri-shahrBank::before {
+  content: '\e020' !important;
+}
+
+.ri-ap::before {
+  content: '\e021' !important;
+}
+
+.ri-pasargardBank::before {
+  content: '\e022' !important;
+}
+
+.ri-sadad::before {
+  content: '\e023' !important;
+}
+
+.ri-zarinpal::before {
+  content: '\e024' !important;
+}
+
+.ri-nextpay::before {
+  content: '\e027' !important;
+}
+
+.ri-bazzarDownload::before {
+  content: '\e025' !important;
+}
+
+.ri-bazzar::before {
+  content: '\e026' !important;
+}
+
+.ri-digikala::before {
+  content: '\e028' !important;
+}
+
+.ri-IRI_Court_Gov::before {
+  content: '\e029' !important;
+}
+
+.ri-IRI_CounMin::before {
+  content: '\e030' !important;
+}
+
+.ri-IRI_CulturMin::before {
+  content: '\e031' !important;
+}
+
+.ri-IRI_FinanMin::before {
+  content: '\e032' !important;
+}
+
+.ri-IRI_DefenMin::before {
+  content: '\e033' !important;
+}
+
+.ri-IRI_EnergyMin::before {
+  content: '\e034' !important;
+}
+
+.ri-IRI_ForiegMin::before {
+  content: '\e035' !important;
+}
+
+.ri-IRI_HealthMin::before {
+  content: '\e036' !important;
+}
+
+.ri-IRI_GardeMin::before {
+  content: '\e037' !important;
+}
+
+.ri-IRI_IndustMin::before {
+  content: '\e038' !important;
+}
+
+.ri-IRI_InformMin::before {
+  content: '\e039' !important;
+}
+
+.ri-IRI_Jahad::before {
+  content: '\e040' !important;
+}
+
+.ri-IRI_Logo::before {
+  content: '\e041' !important;
+}
+
+.ri-IRI_OilMin::before {
+  content: '\e042' !important;
+}
+
+.ri-IRI_RoadsMin::before {
+  content: '\e043' !important;
+}
+
+.ri-IRI_SienceMin::before {
+  content: '\e044' !important;
+}
+
+.ri-IRI_SportMin::before {
+  content: '\e045' !important;
+}
+
+.ri-IRI_Symbol::before {
+  content: '\e046' !important;
+}
+
+.ri-IRI_WorkersMin::before {
+  content: '\e047' !important;
+}
+
+.ri-IRI_KomitEmdad::before {
+  content: '\e048' !important;
+}
+
+.ri-standard::before {
+  content: '\e049' !important;
+}
+
+.ri-healthyApple::before {
+  content: '\e050' !important;
+}
+
+.ri-post1::before {
+  content: '\e051' !important;
+}
+
+.ri-post2::before {
+  content: '\e052' !important;
+}
+
+.ri-shaparak::before {
+  content: '\e053' !important;
+}
+
+.ri-sheba::before {
+  content: '\e054' !important;
+}
+
+.ri-tipax::before {
+  content: '\e055' !important;
+}

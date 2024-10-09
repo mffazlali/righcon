@@ -1,0 +1,61 @@
+.header {
+}
+
+.header .headerWrapper {
+  @apply bg-white relative inset-0 w-full h-auto flex flex-col;
+}
+
+.header .headerWrapper .logo {
+  @apply md:flex hidden h-full absolute justify-start items-center w-full flex-col;
+}
+
+.header .headerWrapper .navSection {
+  background-image: url('../../../../../public/medias/images/background.svg');
+  @apply shadow-lg bg-cover bg-center md:h-[303px] h-auto;
+  border-radius: 0px 0px 30px 30px;
+  box-shadow: 0px 0px 29px 0px rgba(0, 0, 0, 0.15);
+}
+
+.header .headerWrapper .navSectionHome {
+  background-image: url('../../../../../public/medias/images/background.svg');
+  @apply shadow-lg bg-contain bg-top md:h-[477px] h-auto;
+  border-radius: 0px 0px 30px 30px;
+  box-shadow: 0px 0px 29px 0px rgba(0, 0, 0, 0.15);
+}
+
+.header .headerWrapper .navSectionScroll {
+  border-radius: 0px 0px 30px 30px;
+  box-shadow: 0px 0px 29px 0px rgba(0, 0, 0, 0.15);
+  @apply fixed md:block hidden bg-white w-full z-50 transition-all duration-500;
+}
+
+.header .headerWrapper .filterSection {
+}
+
+.header .headerWrapper .descriptionWrapper .downloadButtonAction {
+  /*@apply mt-7;*/
+}
+
+.header .headerWrapper .descriptionWrapper .downloadButtonAction .downloadButton {
+  @apply bg-primary rounded-[10px] h-[40px] w-[21rem];
+  box-shadow:
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.header .headerWrapper .descriptionWrapper {
+  @apply inline-flex flex-col items-center gap-4;
+}
+
+.header .headerWrapper .descriptionWrapper .description {
+  letter-spacing: 0.1px;
+  @apply text-black text-center text-base font-normal leading-5 w-[32rem];
+}
+
+.header .headerWrapper .descriptionWrapper .versionWrapper {
+  /*@apply mt-2;*/
+}
+
+.header .headerWrapper .descriptionWrapper .versionWrapper .version {
+  @apply text-black text-center text-xs font-medium leading-4;
+}

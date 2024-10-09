@@ -1,0 +1,38 @@
+.logo {
+  @apply flex justify-start items-center h-fit;
+}
+
+.logoHome {
+  @apply flex justify-center items-center h-fit;
+}
+
+.logo .logoWrapperLarge {
+  @apply relative my-[40px] h-[130px] w-[334px] flex justify-center items-center;
+}
+
+.logo .logoWrapperSmall {
+  @apply h-[50px] w-[50px] relative flex justify-center items-center;
+}
+
+.logo .logoWrapperScroll {
+  @apply h-[52px] w-[103px] relative flex justify-center items-center;
+}
+
+.logo .logoWrapperHome {
+  @apply relative my-[40px] h-[130px] w-[334px] flex justify-center items-center;
+}
+
+.logo .logoWrapperFooter {
+  @apply relative h-[68px] w-[176px] flex justify-center items-center;
+}
+
+.logo .logoWrapperLarge .logoTarget,
+.logo .logoWrapperSmall .logoTarget,
+.logo .logoWrapperHome .logoTarget,
+.logo .logoWrapperFooter .logoTarget {
+  @apply h-full w-full relative object-cover;
+}
+
+.logo .logoWrapperSmall .logoTarget {
+  @apply h-full w-full relative object-contain;
+}

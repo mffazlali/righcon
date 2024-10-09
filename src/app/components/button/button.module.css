@@ -1,0 +1,15 @@
+.button {
+}
+
+.buttonTarget {
+  @apply flex flex-row justify-center items-center self-stretch bg-primary w-full;
+  padding: 10px 24px 10px 16px;
+}
+
+.buttonTarget span:first-child {
+  @apply pe-2;
+}
+
+.buttonTarget span:last-child {
+  @apply text-white text-center text-sm font-normal leading-5 tracking-tighter;
+}

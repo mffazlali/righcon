@@ -1,0 +1,195 @@
+.modalIcon {
+    @apply relative flex justify-center items-center;
+}
+
+.modalIcon .backdrop {
+    @apply bg-black/40 blur fixed top-0 w-full h-screen z-[2000];
+}
+
+.modalIcon .iconsModalContainer {
+    @apply h-screen w-screen z-[3000] fixed top-0 flex justify-center overflow-auto cursor-pointer;
+    padding: calc(100vh - 860px) 0;
+}
+
+.modalIcon .iconsModalContainer .iconsModalWrapper {
+    @apply relative xl:w-[70%] lg:w-[85%] w-[90%]  lg:h-[640px] h-[1000px] bg-white z-[3000] rounded-lg shadow-lg cursor-auto;
+    opacity: 0;
+    animation-name: test;
+    animation-duration: 0s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: inherit;
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30), 0px 8px 12px 6px rgba(0, 0, 0, 0.15);
+}
+
+.modalIcon .iconsModalWrapper .iconsModal {
+    @apply flex flex-col py-5 px-4;
+}
+
+@keyframes test {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper {
+    @apply flex pb-6 relative;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo {
+    @apply w-full flex flex-row lg:px-14 md:px-9 px-8 items-center
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .fontFarsiName {
+    @apply w-4/12 flex;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .fontFarsiName span {
+    @apply text-black text-right md:text-2xl text-[0.8rem] font-bold;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .iconCode {
+    @apply w-4/12 flex flex-row justify-end;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .iconCode span {
+    @apply capitalize text-black text-right md:text-sm text-[0.8rem] font-normal;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .iconName {
+    @apply w-6/12
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconInfo .iconName span {
+    @apply md:text-2xl text-[1rem] font-bold float-left;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconHeaderWrapper .iconClose {
+    @apply w-auto text-left absolute left-[7px] top-[5px]
+}
+
+.modalIcon
+.iconsModalWrapper
+.iconsModal
+.iconHeaderWrapper
+.iconClose
+.closeTarget {
+    @apply h-[16px] w-[16px] transition-all;
+    border-radius: 4px;
+    background: #FFF;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody {
+    @apply pt-3 lg:px-14 md:px-9 px-3 hover:text-center
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper {
+    @apply flex flex-wrap relative;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFont {
+    @apply relative text-[100px] lg:w-6/12 w-full h-[368px] font-iranIconAlpha border-[2px] border-solid border-[#f0f1f3] rounded-xl flex justify-center items-center py-20 px-40;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.50);
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconFontWrapper .iconFont i {
+    @apply text-[30em] leading-[0.5] relative w-[256px] h-[256px] flex justify-center items-center;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .switchWrapper {
+    @apply absolute top-3 right-2;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .backWrapper {
+    @apply absolute bottom-3 left-2;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .backTargetWrapper {
+    @apply flex flex-col justify-center items-center p-2 transition-all rounded-[100px]
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .backTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions {
+    @apply flex flex-col relative ps-6 py-3 lg:w-6/12 w-full;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .brandAction {
+    @apply flex flex-row items-center relative;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .brandAction .brandTargetWrapper {
+    @apply flex flex-col justify-center items-center p-2 transition-all rounded-[100px]
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .brandAction .backTargetWrapper .brandTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .brandAction .brandLink {
+    @apply ms-6
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .brandAction .brandLink span {
+    @apply text-[#BB8C00] text-right text-sm font-medium leading-5 tracking-tight underline;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .dropDownAction {
+    @apply w-full;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .dropDown {
+    @apply w-full;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .multiOptionAction {
+    @apply w-full mt-4;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .colorAndDropDownAction {
+    @apply w-full mt-1 flex flex-row;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .colorAndDropDownAction .colorPickerWrapper {
+    @apply w-6/12 pe-3;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .colorAndDropDownAction .dropDownWrapper {
+    @apply w-6/12 ps-3;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .downloadButtonAction {
+    @apply pt-5;
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .iconsBody .iconFontWrapper .iconActions .downloadButtonAction .downloadButton {
+    @apply bg-primary rounded-[10px] h-[56px];
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px 0px rgba(0, 0, 0, 0.30);
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .codeSnippetWrapper {
+    @apply bg-[#212529] rounded-[10px] h-auto mt-5 flex justify-end items-center cursor-pointer relative;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px 0px rgba(0, 0, 0, 0.30);
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .codeSnippetWrapper .codeSnippet {
+    @apply text-white text-center text-base font-bold leading-[24px] md:px-6 md:py-8 px-3 py-8 whitespace-pre select-none relative overflow-x-auto w-full;
+    word-spacing: 0
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .codeSnippetWrapper .codeSnippet code {
+    @apply md:float-left float-none
+}
+
+.modalIcon .iconsModalWrapper .iconsModal .codeSnippetWrapper .copyState {
+    @apply absolute text-[#9189a7] top-1 right-2/4;
+}

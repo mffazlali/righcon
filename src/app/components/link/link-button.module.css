@@ -1,0 +1,12 @@
+.linkButton {
+  @apply flex flex-row justify-center items-center self-stretch bg-primary w-full;
+  padding: 10px 24px 10px 16px;
+}
+
+.linkButton span:first-child {
+  @apply pe-2;
+}
+
+.linkButton span:last-child {
+  @apply text-white text-center text-sm font-normal leading-5 tracking-tighter;
+}

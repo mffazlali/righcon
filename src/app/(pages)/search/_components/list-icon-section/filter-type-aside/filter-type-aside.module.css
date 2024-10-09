@@ -1,0 +1,46 @@
+.aside {
+    @apply xl:w-[20%] lg:w-3/12 md:w-4/12 w-full pt-5 pb-4 min-h-[60vh] relative;
+    border-radius: 0px 0px 0px 10px;
+    background: var(#FFF);
+    box-shadow: 0px 4px 15px 3px rgba(0, 0, 0, 0.15);
+}
+
+.aside .asideWrapper {
+    @apply w-full h-full relative flex flex-col;
+}
+
+.aside .asideWrapper .titleGroupWrapper {
+    @apply flex flex-col relative items-center justify-center px-[20%] w-[100%] pt-4;
+}
+
+.aside .asideWrapper .titleGroupWrapper .titleGroup {
+    @apply md:w-[75%] w-[74%] flex items-center justify-start relative h-[32px];
+}
+
+.aside .asideWrapper .titleGroupWrapper .titleGroup span {
+    @apply text-[#212529] text-right text-base font-bold leading-6 absolute;
+}
+
+
+.aside .asideWrapper .checkList {
+    @apply flex flex-col w-full;
+}
+
+.aside .asideWrapper .checkList .checkListWrapper {
+    @apply flex flex-row relative items-center justify-center w-[100%];
+}
+
+.aside .asideWrapper .checkList .checkBoxWrapper {
+    @apply px-3 py-1;
+}
+
+.aside .asideWrapper .checkList .checkBox {
+    @apply rounded-[2px] w-[12px] h-[12px] border-[2px] border-solid border-[#49454F]
+}
+
+.aside .asideWrapper .checkList .label {
+    @apply text-black text-right text-base font-normal leading-[25px]  text-textBody relative bottom-[2px] w-[70%];
+}
+
+
+

@@ -1,0 +1,84 @@
+.help {
+}
+
+.help .helpContainer {
+    @apply flex p-2.5 w-full flex-col justify-center items-center gap-2.5 my-[64px];
+}
+
+.help .helpContainer .helpBoxWrapper {
+    @apply py-[0.625rem] px-8;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox {
+    @apply flex py-4 px-8 flex-col justify-center items-start gap-8 rounded-[16px] bg-white shadow-[0px_0px_16px_0px_rgba(0,0,0,0.25)];
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpIntroduction {
+    @apply text-black text-right text-[0.938rem] font-normal leading-[2.125rem] tracking-[0.1px];
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems {
+    @apply flex flex-col justify-center items-start gap-8;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem {
+    @apply flex flex-col gap-2 relative w-full;
+}
+
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem ul.helpItemSubject {
+    @apply list-disc list-inside;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemSubject li {
+    @apply text-black text-right text-xl font-bold leading-[2.125rem] tracking-[0.1px];
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemContent {
+    @apply px-8 text-black text-right text-[0.938rem] font-normal leading-[2.125rem] tracking-[0.1px];
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper {
+    @apply flex flex-col py-4 px-8 mx-6 justify-center items-end gap-[0.625rem] rounded-[8px] bg-textBody;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode {
+    @apply text-[0.95rem] font-normal leading-[2.125rem] tracking-[0.1px];
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .signCode {
+    @apply text-warning;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .linkRef {
+    @apply text-lightPrimary;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .path {
+    @apply text-info;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .rel {
+    @apply text-light;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .styleSheet {
+    @apply text-success;
+}
+
+.help .helpContainer .helpBoxWrapper .helpBox .helpItems .helpItem .helpItemCodeWrapper .helpItemCode .classValue {
+    @apply text-success;
+}
+
+
+.help .helpContainer .helpBoxWrapper .helpBox ul.descriptionList {
+    @apply list-disc list-outside ps-4;
+}
+
+
+
+
+
+
+
+

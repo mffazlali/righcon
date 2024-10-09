@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="250.472mm" height="201.436mm"
+ viewBox="0 0 710 571"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>AzadiTower</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M260,199 C247,279 233,359 220,439 C220,439 219,440 218,440 L108,440 C93,440 85,422 94,410 C149,339 203,268 258,198 C259,197 260,198 260,199 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M622,439 C622,439 622,441 621,441 C581,441 544,441 507,441 C499,441 491,441 483,440 C480,440 475,436 475,434 C461,357 447,280 435,201 C435,200 437,199 438,200 C498,279 559,358 622,439 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M438,291 C438,292 436,293 435,292 C429,280 423,272 416,257 C409,244 401,230 391,219 C363,190 324,191 298,222 C286,236 278,253 269,270 C265,277 262,285 258,292 C258,294 255,293 255,291 C260,262 265,233 270,204 C274,180 278,156 282,132 C282,131 281,130 280,131 C279,131 279,132 278,132 C278,133 276,132 276,131 L276,10 C276,9 277,9 278,9 L290,9 C290,9 291,8 291,8 C293,4 296,1 300,1 L392,1 C396,1 400,4 401,8 C401,8 402,9 402,9 L403,9 C410,9 416,15 416,22 L416,130 C416,132 415,132 414,132 C412,131 411,130 409,129 C409,128 407,129 407,130 C418,186 428,235 438,291 M360,30 C360,30 360,31 361,31 C361,31 362,32 362,32 C362,33 363,33 363,33 C364,33 364,33 364,32 C364,32 365,31 365,31 C366,31 366,31 366,30 L366,22 C366,21 366,21 365,20 C365,20 364,20 364,20 C364,19 364,19 363,19 C363,19 362,19 362,20 C362,20 361,20 361,20 C360,21 360,21 360,22 L360,30 M344,30 C344,31 344,31 344,31 C345,31 345,32 345,32 C346,33 346,33 347,33 C347,33 348,33 348,32 C348,32 348,31 349,31 C349,31 350,31 350,30 L350,22 C350,21 349,21 349,20 C348,20 348,20 348,20 C348,19 347,19 347,19 C346,19 346,19 345,20 C344,21 344,21 344,22 L344,30 M327,30 C327,30 328,31 328,31 C328,31 329,32 329,32 C329,33 330,33 330,33 C331,33 331,33 331,32 C332,32 332,31 332,31 C333,31 333,30 333,29 L333,22 C333,21 333,21 332,20 C332,20 332,20 331,19 C331,19 331,19 330,19 C330,19 329,19 329,20 C329,20 328,20 328,20 C328,21 327,21 327,22 L327,30"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M224,30 L262,30 C262,30 263,31 263,31 C263,35 264,38 264,41 C264,81 264,121 263,161 C263,167 261,173 258,178 C248,192 237,205 225,220 C224,221 223,221 223,219 L223,31 C223,31 223,30 224,30 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M431,30 L468,30 C469,30 469,31 469,31 L469,218 C469,219 468,219 467,218 C458,207 451,196 442,187 C432,176 429,163 429,148 C430,113 429,77 429,42 L429,31 C429,31 430,30 431,30 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+.article {
+  @apply xl:w-[80%] lg:w-9/12 md:w-8/12 w-full pt-6 ps-9;
+}
+
+.article .contentWrapper {
+  @apply font-iranIconAlpha flex flex-wrap gap-8 md:justify-start items-start content-start;
+}
+
+.article .articleTitle {
+  @apply mt-3 mb-4 ms-4;
+}
+
+.article .articleContent {
+  @apply mt-3;
+}

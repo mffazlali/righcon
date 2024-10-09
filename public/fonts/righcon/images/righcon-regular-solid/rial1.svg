@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="259.292mm" height="217.664mm"
+     viewBox="0 0 735 617"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Rial2</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+    <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+       font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+    >
+    </g>
+
+    <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+       font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+    >
+        <path vector-effect="none" fill-rule="nonzero" d="M539,212 C529,195 513,187 493,187 C477,187 461,192 446,202 L446,247 C446,285 451,311 460,324 C471,337 485,343 502,343 L508,343 L514,343 C518,342 522,341 525,340 C521,326 513,306 500,280 C516,259 529,243 539,230 L543,231 C557,266 564,294 564,314 C564,325 560,342 552,365 C546,382 536,395 523,404 C512,413 500,417 486,417 C450,417 427,397 416,357 C413,341 411,320 411,293 L411,276 L411,259 C411,245 410,234 410,225 L408,224 C392,239 379,252 368,263 C369,277 369,301 369,335 C369,350 367,365 363,381 C359,401 352,419 344,435 C319,474 284,494 239,494 C211,494 188,484 172,463 C156,444 148,418 148,387 C148,349 157,312 176,275 L193,285 C184,306 180,324 180,340 C180,367 188,387 204,400 C210,406 217,409 225,412 C232,414 238,415 244,415 C264,415 284,410 303,399 C321,389 331,379 333,368 C334,358 335,349 335,340 C335,326 334,313 333,302 L332,302 C306,333 280,349 256,349 C242,349 231,343 222,332 C211,320 205,302 205,278 C205,231 223,186 258,141 L273,152 C250,186 239,215 239,240 C239,264 248,276 266,276 C283,276 305,263 329,237 C325,187 322,150 320,126 L316,114 L312,102 C309,92 307,83 307,75 C307,56 320,35 344,12 L349,15 C349,34 363,64 391,106 L361,136 L364,204 L366,204 C378,191 393,176 409,160 C407,125 404,87 398,46 C408,33 419,18 432,1 L438,4 C443,34 446,76 446,130 L447,132 C466,117 486,109 507,109 C521,109 533,114 542,123 C551,133 555,145 555,159 C555,175 552,192 545,212 L539,212 M434,440 C453,455 470,471 485,488 C471,508 458,523 447,533 C439,526 431,518 420,509 L394,485 L434,440 M525,435 C544,451 561,467 576,484 C562,503 549,518 537,529 C530,522 522,514 511,504 L485,481 L525,435"/>
+    </g>
+
+    <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+       font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+    >
+    </g>
+</g>
+</svg>
+

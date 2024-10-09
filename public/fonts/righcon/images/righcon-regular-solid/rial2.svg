@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="261.056mm" height="217.664mm"
+     viewBox="0 0 740 617"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+    <title>Rial1</title>
+    <desc>Generated with Qt</desc>
+    <defs>
+    </defs>
+    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+        </g>
+
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+            <path vector-effect="none" fill-rule="nonzero" d="M410,367 C407,395 401,419 392,439 C383,460 371,477 357,490 C341,505 323,516 302,523 C281,530 257,533 231,533 L222,533 C200,532 181,528 165,521 C148,514 135,504 123,492 C112,481 104,467 99,452 C93,437 90,421 90,404 L90,397 C91,373 96,352 105,335 C114,317 125,302 140,289 C156,276 175,265 197,259 C220,252 243,249 269,249 L314,249 C330,249 339,260 339,282 L339,291 L256,291 C240,291 225,293 211,298 C197,303 185,311 174,320 C163,329 155,340 148,353 C142,366 139,380 138,396 C138,396 138,397 138,398 L138,400 C138,414 140,426 145,437 C150,448 156,457 165,465 C173,473 183,479 195,483 C206,488 219,490 233,491 L238,491 C254,491 270,488 285,483 C300,478 313,469 325,457 C335,447 343,435 350,420 C356,405 361,388 363,367 L381,1 L391,2 C415,4 427,14 425,32 L410,367"/>
+        </g>
+
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+            <path vector-effect="none" fill-rule="nonzero" d="M628,138 L618,244 C617,260 605,268 583,268 L464,268 L485,32 L495,32 C520,35 531,44 530,62 L515,225 L572,225 L583,107 L593,108 C617,110 629,120 628,138 "/>
+        </g>
+
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+            <path vector-effect="none" fill-rule="nonzero" d="M470,422 C473,417 478,414 483,411 C478,408 475,404 472,399 C470,395 468,390 468,385 C468,384 469,383 469,382 C469,378 470,374 472,370 C474,366 477,363 480,360 C483,358 487,356 490,355 C494,353 497,353 500,353 C501,353 502,353 504,353 C508,353 512,355 516,357 C519,359 523,361 525,364 C528,367 530,371 531,374 C532,378 533,381 533,384 C533,386 533,387 533,388 C532,394 530,399 526,404 C523,408 519,412 513,414 C518,417 522,421 524,426 C526,431 528,435 528,440 C528,441 528,442 527,443 C527,448 526,452 524,456 C522,459 519,463 516,465 C513,468 510,470 506,471 C502,472 499,472 496,472 C495,472 494,472 493,472 C488,472 484,471 481,469 C477,467 474,464 471,461 C468,458 466,454 465,451 C464,447 464,444 464,441 C464,440 464,439 464,438 C464,432 466,426 470,422 "/>
+        </g>
+
+        <g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+            <path vector-effect="none" fill-rule="nonzero" d="M544,532 C531,533 518,529 505,521 C525,513 541,502 554,487 C563,477 568,465 571,452 L582,324 L592,325 C617,327 629,337 628,354 L618,456 C617,473 610,489 600,501 C589,512 581,519 574,522 C567,525 561,528 558,529 C555,530 552,530 549,531 C546,531 545,532 544,532 "/>
+        </g>
+
+        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+           font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal"
+        >
+        </g>
+    </g>
+</svg>

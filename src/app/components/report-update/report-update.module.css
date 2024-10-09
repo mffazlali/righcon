@@ -1,0 +1,141 @@
+.reportUpdate {
+}
+
+.reportUpdate .reportUpdateContainer {
+}
+
+.reportUpdate .reportUpdateContainer .updateWrapper {
+  @apply px-12 py-[3rem];
+}
+
+.reportUpdate .reportUpdateContainer .updateWrapper .update {
+  @apply flex justify-between items-start flex-row flex-wrap;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateImageWrapper {
+  @apply md:w-6/12 w-full pe-1;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateImageWrapper
+  .lastUpdateImage {
+  @apply rounded-[10px] h-[501px] object-contain md:object-left-top w-full;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper {
+  @apply md:w-6/12 w-full flex flex-col md:min-h-[501px] h-auto relative ps-1 md:pe-[10%];
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection {
+  @apply pt-6;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateTitleWrapper {
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateTitleWrapper
+  .lastUpdateTitle {
+  @apply flex justify-between;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateTitleWrapper
+  .lastUpdateTitle
+  .titleTarget {
+  @apply text-black text-center text-[1.4rem] font-normal leading-7;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateTitleWrapper
+  .lastUpdateTitle
+  .versionTarget {
+  @apply text-black text-[1.4rem] font-normal leading-7;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateItemsWrapper {
+  @apply ms-9 mt-8;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateItemsWrapper
+  .lastUpdateItems {
+  @apply list-disc;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateItemsWrapper
+  .lastUpdateItems
+  .lastUpdateItemWrapper {
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateSection
+  .lastUpdateItemsWrapper
+  .lastUpdateItems
+  .lastUpdateItemWrapper
+  .lastUpdateItem {
+  @apply text-black text-right text-[0.879rem] font-normal leading-9 tracking-[0.1px];
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateButtonWrapper {
+  @apply md:mx-0 mx-auto md:absolute md:bottom-0 md:left-[15%] relative;
+}
+
+.reportUpdate .reportUpdateContainer
+  .updateWrapper
+  .update
+  .lastUpdateSectionWrapper
+  .lastUpdateButtonWrapper
+  .lastUpdateButton {
+  @apply bg-primary rounded-[5px] h-[40px] w-[334px];
+}

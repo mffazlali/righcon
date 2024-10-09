@@ -1,0 +1,29 @@
+.dropButton {
+}
+
+.dropButton .dropButtonWrapper {
+}
+
+.dropButton .dropButtonWrapper .dropButtonTarget {
+    @apply enabled:cursor-pointer;
+}
+
+.dropButton .dropButtonWrapper .dropButtonTarget:hover,
+.dropButtonTarget:focus {
+}
+
+.dropButton .dropButtonWrapper .dropdown {
+    @apply relative inline-block;
+}
+
+.dropButton .dropButtonWrapper .dropdownContent {
+    @apply absolute bg-[#F8F9FA] min-w-[100px] z-[1] transition-all;
+}
+
+.dropButton .dropButtonWrapper .dropdownContent span {
+    @apply text-black block p-2 font-normal text-xs leading-4 cursor-pointer;
+}
+
+.dropButton .dropButtonWrapper .dropdownContent span:hover {
+    @apply bg-secondary;
+}

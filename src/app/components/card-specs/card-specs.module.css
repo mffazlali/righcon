@@ -1,0 +1,27 @@
+.cardSpecs {
+  @apply flex justify-center items-center;
+}
+
+.cardSpecs .cardSpecsContainer {
+  @apply flex justify-center items-center flex-col lg:w-[296px] sm:w-[230px] box-border w-[80%] pt-4 pb-16 gap-[1.125rem];
+}
+
+.cardSpecs .cardSpecsContainer .imageWrapper {
+  @apply bg-[#F8F9FA] flex justify-center items-center p-4 rounded-[100px] md:w-[120px] md:h-[120px] w-[90px] h-[90px] hover:scale-[1.1] transition-all cursor-pointer;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.cardSpecs .cardSpecsContainer .imageWrapper:hover .image {
+  @apply scale-[1.1] transition-all;
+}
+
+.cardSpecs .cardSpecsContainer .imageWrapper .image {
+}
+
+.cardSpecs .cardSpecsContainer .descriptionWrapper {
+  @apply flex justify-center items-center rounded-[100px];
+}
+
+.cardSpecs .cardSpecsContainer .descriptionWrapper .description {
+  @apply text-textBody text-center text-sm font-normal leading-5 tracking-[0.1px];
+}

@@ -1,0 +1,516 @@
+.ri,
+.rib,
+.riro,
+.rirs,
+.righcon-brands,
+.righcon-regular-outline,
+.righcon-regular-solid {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1 !important;
+  text-rendering: auto !important;
+}
+
+@font-face {
+  font-family: 'righcon brands';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../webfonts/brands/righcon-brands-svg.ttf')
+  format('truetype');
+}
+
+.rib,
+.righcon-brands {
+  font-family: 'righcon brands' !important;
+  font-weight: 400 !important;
+  font-size: 100px !important;
+}
+
+.ri-bale::before {
+  content: '\e005' !important;
+}
+
+.ri-eita::before {
+  content: '\e006' !important;
+}
+
+.ri-gap::before {
+  content: '\e007' !important;
+}
+
+.ri-igap::before {
+  content: '\e008' !important;
+}
+
+.ri-rubica::before {
+  content: '\e010';
+}
+
+.ri-sourosh::before {
+  content: '\e009' !important;
+}
+
+.ri-tejaratBank::before {
+  content: '\e011' !important;
+}
+
+.ri-ayandehBank::before {
+  content: '\e012' !important;
+}
+
+.ri-centralBank::before {
+  content: '\e013' !important;
+}
+
+.ri-keshavarziBank::before {
+  content: '\e014' !important;
+}
+
+.ri-meliBank::before {
+  content: '\e015' !important;
+}
+
+.ri-mellatBank::before {
+  content: '\e016' !important;
+}
+
+.ri-parsianBank::before {
+  content: '\e017' !important;
+}
+
+.ri-samanBank::before {
+  content: '\e018' !important;
+}
+
+.ri-dayBank::before {
+  content: '\e019' !important;
+}
+
+.ri-shahrBank::before {
+  content: '\e020' !important;
+}
+
+.ri-ap::before {
+  content: '\e021' !important;
+}
+
+.ri-pasargardBank::before {
+  content: '\e022' !important;
+}
+
+.ri-sadad::before {
+  content: '\e023' !important;
+}
+
+.ri-zarinpal::before {
+  content: '\e024' !important;
+}
+
+.ri-nextpay::before {
+  content: '\e027' !important;
+}
+
+.ri-bazzarDownload::before {
+  content: '\e025' !important;
+}
+
+.ri-bazzar::before {
+  content: '\e026' !important;
+}
+
+.ri-digikala::before {
+  content: '\e028' !important;
+}
+
+.ri-IRI_Court_Gov::before {
+  content: '\e029' !important;
+}
+
+.ri-IRI_CounMin::before {
+  content: '\e030' !important;
+}
+
+.ri-IRI_CulturMin::before {
+  content: '\e031' !important;
+}
+
+.ri-IRI_FinanMin::before {
+  content: '\e032' !important;
+}
+
+.ri-IRI_DefenMin::before {
+  content: '\e033' !important;
+}
+
+.ri-IRI_EnergyMin::before {
+  content: '\e034' !important;
+}
+
+.ri-IRI_ForiegMin::before {
+  content: '\e035' !important;
+}
+
+.ri-IRI_HealthMin::before {
+  content: '\e036' !important;
+}
+
+.ri-IRI_GardeMin::before {
+  content: '\e037' !important;
+}
+
+.ri-IRI_IndustMin::before {
+  content: '\e038' !important;
+}
+
+.ri-IRI_InformMin::before {
+  content: '\e039' !important;
+}
+
+.ri-IRI_Jahad::before {
+  content: '\e040' !important;
+}
+
+.ri-IRI_Logo::before {
+  content: '\e041' !important;
+}
+
+.ri-IRI_OilMin::before {
+  content: '\e042' !important;
+}
+
+.ri-IRI_RoadsMin::before {
+  content: '\e043' !important;
+}
+
+.ri-IRI_SienceMin::before {
+  content: '\e044' !important;
+}
+
+.ri-IRI_SportMin::before {
+  content: '\e045' !important;
+}
+
+.ri-IRI_Symbol::before {
+  content: '\e046' !important;
+}
+
+.ri-IRI_WorkersMin::before {
+  content: '\e047' !important;
+}
+
+.ri-IRI_KomitEmdad::before {
+  content: '\e048' !important;
+}
+
+.ri-standard::before {
+  content: '\e049' !important;
+}
+
+.ri-healthyApple::before {
+  content: '\e050' !important;
+}
+
+.ri-post1::before {
+  content: '\e051' !important;
+}
+
+.ri-post2::before {
+  content: '\e052' !important;
+}
+
+.ri-shaparak::before {
+  content: '\e053' !important;
+}
+
+.ri-sheba::before {
+  content: '\e054' !important;
+}
+
+.ri-tipax::before {
+  content: '\e055' !important;
+}
+
+.rib,
+.riro,
+.rirs,
+.righcon-brands,
+.righcon-regular-outline,
+.righcon-regular-solid {
+  font-weight: 400 !important;
+}
+
+@font-face {
+  font-family: 'righcon regular outline';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../webfonts/regular/outline/righcon-outline-svg.ttf')
+  format('truetype');
+}
+
+.riro,
+.righcon-regular-outline {
+  font-family: 'righcon regular outline' !important;
+  font-weight: 400 !important;
+  font-size: 70px !important;
+}
+
+@font-face {
+  font-family: 'righcon regular solid';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../webfonts/regular/solid/righcon-solid-svg.ttf')
+  format('truetype');
+}
+
+.rirs,
+.righcon-regular-solid {
+  font-family: 'righcon regular solid' !important;
+  font-weight: 400 !important;
+  font-size: 70px !important;
+}
+
+.ri-toman1::before {
+  content: '\e016' !important;
+}
+
+.ri-toman2::before {
+  content: '\e018' !important;
+}
+
+.ri-rial1::before {
+  content: '\e017' !important;
+}
+
+.ri-rial2::before {
+  content: '\e019' !important;
+}
+
+.ri-cash::before {
+  content: '\e006' !important;
+}
+
+.ri-tea::before {
+  content: '\e002' !important;
+}
+
+.ri-azadiTower::before {
+  content: '\e003' !important;
+}
+
+.ri-persPolice::before {
+  content: '\e004' !important;
+}
+
+.ri-kebab::before {
+  content: '\e001' !important;
+}
+
+.ri-madInIran::before {
+  content: '\e005' !important;
+}
+
+.ri-iranMap::before {
+  content: '\e008' !important;
+}
+
+.ri-IranMapDetailed::before {
+  content: '\e007' !important;
+}
+
+.ri-mosque::before {
+  content: '\e012' !important;
+}
+
+.ri-kabba::before {
+  content: '\e010' !important;
+}
+
+.ri-namaz::before {
+  content: '\e013' !important;
+}
+
+.ri-quran1::before {
+  content: '\e014' !important;
+}
+
+.ri-quran2::before {
+  content: '\e015' !important;
+}
+
+.ri-mehrab::before {
+  content: '\e011' !important;
+}
+
+.ri-halalMark::before {
+  content: '\e009' !important;
+}
+
+.ri-alborz::before {
+  content: '\e020' !important;
+}
+
+.ri-ardabil::before {
+  content: '\e021' !important;
+}
+
+.ri-boshehr::before {
+  content: '\e022' !important;
+}
+
+.ri-chaharVaBakht::before {
+  content: '\e023' !important;
+}
+
+.ri-eazarBaijan::before {
+  content: '\e024' !important;
+}
+
+.ri-esfahan::before {
+  content: '\e025' !important;
+}
+
+.ri-fars::before {
+  content: '\e026' !important;
+}
+
+.ri-ghazvin::before {
+  content: '\e027' !important;
+}
+
+.ri-gillan::before {
+  content: '\e028' !important;
+}
+
+.ri-golestan::before {
+  content: '\e029' !important;
+}
+
+.ri-hamedan::before {
+  content: '\e030' !important;
+}
+
+.ri-hormozgan::before {
+  content: '\e031' !important;
+}
+
+.ri-ilam::before {
+  content: '\e032' !important;
+}
+
+.ri-kerman::before {
+  content: '\e033' !important;
+}
+
+.ri-kermanshah::before {
+  content: '\e034' !important;
+}
+
+.ri-khozestan::before {
+  content: '\e035' !important;
+}
+
+.ri-kohkVaBoir::before {
+  content: '\e036' !important;
+}
+
+.ri-kurdestan::before {
+  content: '\e037' !important;
+}
+
+.ri-lorestan::before {
+  content: '\e038' !important;
+}
+
+.ri-markazi::before {
+  content: '\e039' !important;
+}
+
+.ri-mazandaran::before {
+  content: '\e040' !important;
+}
+
+.ri-nkhorasan::before {
+  content: '\e041' !important;
+}
+
+.ri-qom::before {
+  content: '\e042' !important;
+}
+
+.ri-rkhorasan::before {
+  content: '\e043' !important;
+}
+
+.ri-semnan::before {
+  content: '\e044' !important;
+}
+
+.ri-sistVaBaloch::before {
+  content: '\e045' !important;
+}
+
+.ri-skhorasan::before {
+  content: '\e046' !important;
+}
+
+.ri-tehran::before {
+  content: '\e047' !important;
+}
+
+.ri-wazarBaijan::before {
+  content: '\e048' !important;
+}
+
+.ri-yazd::before {
+  content: '\e049' !important;
+}
+
+.ri-zanjan::before {
+  content: '\e050' !important;
+}
+
+.ri-1x::before {
+  font-size: 1em !important;
+}
+
+.ri-2x::before {
+  font-size: 2em !important;
+}
+
+.ri-3x::before {
+  font-size: 3em !important;
+}
+
+.ri-4x::before {
+  font-size: 4em !important;
+}
+
+.ri-5x::before {
+  font-size: 5em !important;
+}
+
+.ri-6x::before {
+  font-size: 6em !important;
+}
+
+.ri-7x {
+  font-size: 7em !important;
+}
+
+.ri-8x {
+  font-size: 8em !important;
+}
+
+.ri-9x {
+  font-size: 9em !important;
+}
+
+.ri-10x {
+  font-size: 10em !important;
+}

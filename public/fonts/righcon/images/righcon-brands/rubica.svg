@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="176.389mm" height="168.275mm"
+ viewBox="0 0 500 477"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Rubica</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M137,168 L50,217 L51,124 C52,122 52,120 52,118 L137,168 M137,286 L52,335 C51,334 51,332 51,330 L51,236 L137,286 M142,177 L142,277 L56,227 L142,177 M142,296 L142,395 L62,349 C60,348 58,346 57,345 L90,326 L142,296 M239,345 L237,347 L153,395 L153,296 L239,345 M245,230 L245,336 L159,286 L153,283 L153,177 L245,230 M245,355 L245,453 C243,453 242,452 240,452 L159,405 L245,355 M342,405 L261,451 L261,452 C259,452 258,453 256,453 L256,355 L342,405 M342,168 L250,221 L159,168 L245,118 L250,115 L256,118 L342,168 M347,177 L347,283 L342,286 L256,336 L256,230 L347,177 M347,296 L347,395 L264,347 L261,345 L347,296 M444,345 C442,346 441,348 439,349 L358,395 L358,296 L444,345 M142,59 L142,158 L57,109 C58,108 60,106 62,105 L142,59 M239,109 L153,158 L153,59 L239,109 M444,109 L358,158 L358,59 L439,105 C441,106 442,108 444,109 M445,227 L358,277 L358,177 L445,227 M450,236 L450,330 C450,332 450,334 449,335 L364,286 L450,236 M245,1 L245,99 L159,49 L239,3 L240,3 C241,2 243,1 245,1 M342,49 L256,99 L256,1 C258,1 260,2 261,3 L342,49 M347,59 L347,158 L261,109 L347,59 M450,124 L450,218 L364,168 L449,119 C450,120 450,122 450,124 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

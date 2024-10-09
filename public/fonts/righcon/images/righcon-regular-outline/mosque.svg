@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="277.989mm" height="219.075mm"
+ viewBox="0 0 788 621"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Mosque</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M208,11 C211,14 215,16 220,18 C221,18 221,18 222,18 C233,22 240,31 240,40 C240,41 240,42 240,43 L240,73 L176,73 L176,43 C176,42 175,41 175,40 C175,31 182,23 193,18 C194,18 195,18 196,17 C201,16 205,14 208,11 M208,1 C208,6 203,9 194,12 C193,13 192,13 191,14 C179,18 170,28 170,40 C170,41 170,42 170,43 L170,79 L245,79 L245,43 C245,42 245,41 245,40 C245,28 236,18 224,13 C223,13 222,13 222,13 C213,10 208,6 208,1 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M248,86 L248,118 C239,125 234,134 233,144 C233,145 233,145 233,146 C233,146 233,147 233,147 L233,533 L182,533 L182,146 C182,135 177,125 167,118 L167,86 L198,86 L198,146 C198,150 201,153 205,153 L210,153 C214,153 217,150 217,146 L217,86 L248,86 M255,79 L210,79 L210,146 L205,146 L205,79 L160,79 L160,122 C169,128 175,136 175,146 L175,540 L240,540 L240,147 C240,147 240,146 240,146 C240,145 240,145 240,144 C241,135 246,127 255,122 L255,79"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M580,11 C583,14 587,16 593,18 C593,18 594,18 594,18 C605,22 613,31 613,40 C613,41 612,42 612,43 L612,73 L548,73 L548,43 C548,42 548,41 548,40 C548,31 555,23 566,19 C567,18 568,18 569,17 C574,16 578,14 580,11 M580,2 C580,6 575,9 567,13 C566,13 565,13 564,14 C551,18 543,28 543,40 C543,41 543,42 543,43 L543,79 L618,79 L618,43 C618,42 618,41 618,40 C618,28 609,18 596,13 C596,13 595,13 594,13 C586,10 580,6 580,2 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M621,86 L621,118 C612,125 606,134 606,144 C606,145 606,145 606,146 C606,146 606,147 606,147 L606,533 L555,533 L555,146 C555,135 549,125 540,118 L540,86 L571,86 L571,146 C571,150 574,153 578,153 L583,153 C587,153 590,150 590,146 L590,86 L621,86 M628,79 L583,79 L583,146 L578,146 L578,79 L533,79 L533,122 C542,128 548,136 548,146 L548,540 L613,540 L613,147 C613,147 613,146 613,146 C613,145 613,145 613,144 C613,135 619,127 628,122 L628,79"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M523,272 L523,318 C523,322 526,325 530,325 L548,325 L548,533 L438,533 L438,414 C438,413 438,412 438,410 C438,402 435,394 429,388 C426,385 423,383 420,381 C410,374 403,369 399,367 C398,366 396,365 394,365 C392,365 391,365 389,367 C387,368 379,373 369,380 C365,383 361,385 358,389 C352,395 350,403 350,410 C350,412 350,413 350,414 L350,533 L240,533 L240,325 L258,325 C262,325 265,322 265,318 L265,272 L523,272 M530,265 L258,265 L258,318 L233,318 L233,540 L357,540 L357,414 C357,412 357,411 357,410 C357,404 359,398 363,394 C366,391 369,388 373,386 C385,377 394,372 394,372 C395,373 404,377 416,386 C419,388 422,390 424,393 C429,398 431,404 431,410 C431,411 431,413 431,414 L431,540 L555,540 L555,318 L530,318 L530,265"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M394,141 C407,146 479,176 494,222 C494,222 495,222 495,222 C495,223 495,223 495,223 C500,236 504,251 506,266 L281,266 C283,251 287,236 293,223 C293,223 293,222 293,222 C309,176 381,146 394,141 M394,135 C394,135 306,167 287,220 C281,236 276,253 275,272 L512,272 C511,253 507,236 500,220 C483,167 394,135 394,135 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

@@ -1,0 +1,45 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import './styles/buttons.css';
+@import 'tailwindcss/utilities';
+@import './styles/fonts.css';
+@import '../../public/fonts/righcon/css/righcon-brands.css';
+@import '../../public/fonts/righcon/css/righcon-regular-outline.css';
+@import '../../public/fonts/righcon/css/righcon-regular-solid.css';
+@import '../../public/fonts/righcon/css/righcon-regular.css';
+@import '../../public/fonts/righcon/css/righcon.css';
+@import './styles/base.css';
+
+@layer base {
+  :root {
+    --color-primary: #6750a4;
+    --color-primary-hover: #7564a3;
+    --color-primary-focus: #bab0d6;
+    --color-primary-active: #8c82a7;
+    --color-secondary: #d1ccdf;
+    --color-secondary-hover: #dcd8e7;
+    --color-light-primary: #6750A4;
+    --color-light-on-surface: #49454f;
+    --color-light-on-surface-opacity-008: rgba(73, 69, 79, 0.08);
+    --color-light-on-surface-opacity-012: rgba(73, 69, 79, 0.12);
+    --color-text-body: #212529;
+    --color-warning: #ffc107;
+    --color-warning-hover: #facc41;
+    --color-warning-active: #f1d786;
+    --color-info: #0DCAF0;
+    --color-light: #F8F9FA;
+    --color-success: #198754;
+  }
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

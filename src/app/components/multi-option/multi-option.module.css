@@ -1,0 +1,22 @@
+.multiOption {
+}
+
+.multiOption .multiOptionContainer {
+  @apply flex flex-row justify-center items-center;
+}
+
+.multiOption .multiOptionContainer .OptionItem {
+  @apply text-[#1D192B] disabled:text-[#75707a1f] border-y-[0.5px] border-[#E8DEF8] disabled:border-[#E8DEF8] border-solid py-1 w-[20%] h-[64px] flex justify-center items-center;
+}
+
+.multiOption .multiOptionContainer .OptionItem:first-child {
+  @apply rounded-r-lg border-r-[0.5px] border-[#E8DEF8] border-solid;
+}
+
+.multiOption .multiOptionContainer .OptionItem:last-child {
+  @apply rounded-l-lg border-l-[0.5px] border-[#E8DEF8] border-solid;
+}
+
+.multiOption .multiOptionContainer .OptionItem span {
+  @apply text-center sm:text-sm text-xs font-medium leading-5 tracking-tight py-[10px] px-3;
+}

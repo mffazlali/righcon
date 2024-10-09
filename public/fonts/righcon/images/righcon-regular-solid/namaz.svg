@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="251.883mm" height="217.664mm"
+ viewBox="0 0 714 617"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Namaz</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M367,533 C264,533 217,533 115,533 C109,533 106,532 107,525 C108,516 107,488 107,479 C107,473 109,471 114,472 C114,472 115,472 115,472 C321,472 395,472 601,472 C607,472 610,473 609,480 C608,489 609,518 609,527 C609,532 607,533 603,533 L568,533 C501,533 434,533 367,533 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M316,64 C316,30 344,1 379,1 C414,1 442,29 443,64 C443,99 414,127 380,127 C344,127 317,99 316,64 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M533,425 C533,457 533,457 478,457 C473,457 469,457 465,457 C378,457 291,457 204,457 L193,457 C183,457 178,446 178,424 C178,406 184.667,397 198,397 C200,397 203,397 205,397 C225,397 276,397 295,397 C248,383 241,371 241,353 C241,293 241,234 241,174 C242,146 265,121 294,116 C306,114 318,119 329,128 C350,143 358,166 366,192 C366,193 366,193 366,193 C366,193 366,193 366,194 C372,214 377,235 382,255 L385,268 C385,271 395,280 397,282 C400,284 403,285 408,286 C428,292 447,298 465,304 C476,308 483,319 480,330 C478,341 469,348 458,348 C455,348 452,347 449,346 C421,335 402,331 380,317 C376,315 372,312 368,309 C364,305 361,300 358,296 C352,288 346,277 337,263 C334,258 332,252 332,245 L331,205 C331,202 329,200 326,200 C324,200 322,202 322,205 L322,246 C322,254 325,261 329,268 C338,282 345,293 350,301 C355,308 361,315 367,320 C367,322 367,323 367,325 C367,330 369,339 374,341 C401,352 428,359 459,364 C490,369 533,383 533,425 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

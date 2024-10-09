@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="176.389mm" height="159.103mm"
+ viewBox="0 0 500 451"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>AyandehBank</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M394,1 L106,1 C75,1 50,26 50,57 L50,345 C50,376 75,401 106,401 L394,401 C425,401 450,376 450,345 L450,57 C450,26 425,1 394,1 M433,184 L433,342 C433,353 429,364 421,372 C413,380 403,384 391,384 L109,384 C97,384 87,380 79,372 C71,364 67,353 67,342 L67,276 C82,108 241,278 315,278 C374,278 409,232 433,184 M433,60 L433,123 C420,298 259,123 185,123 C126,123 91,170 67,218 L67,60 C67,37 86,18 109,18 L391,18 C415,18 433,36 433,60 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

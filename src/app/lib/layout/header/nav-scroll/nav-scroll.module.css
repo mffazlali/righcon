@@ -1,0 +1,51 @@
+.navScroll {
+  @apply relative box-border flex flex-row flex-wrap justify-center w-full;
+  @apply bg-cover bg-center h-full;
+  border-radius: 0px 0px 30px 30px;
+  box-shadow: 0px 0px 29px 0px rgba(0, 0, 0, 0.15);
+  background-image: url('../../../../../../public/medias/images/background.svg');
+}
+
+.navScrollWrapper {
+  @apply w-full h-full flex flex-row flex-wrap items-center relative;
+}
+
+.navScroll .logo {
+  @apply absolute right-[40px];
+}
+
+.navScroll .menuWrapper {
+  @apply w-full flex flex-row justify-center items-center items-start transition-all;
+}
+
+.navScroll .textItemWrapper {
+  @apply px-6 md:my-0 my-4 text-center text-base font-semibold leading-6 text-[#212529];
+}
+
+.navScroll .textItemWrapper span, .navScroll .textItemWrapper svg{
+  @apply hover:text-primary text-black
+}
+
+.navScroll .iconItemWrapper {
+  @apply flex justify-center items-center h-[44px] w-[48px] relative;
+}
+
+.navScroll .iconItemWrapper .iconItem {
+  @apply h-[20px] w-[20px];
+}
+
+.navScroll .switchWrapper {
+  @apply flex justify-end p-7 w-2/12 box-border;
+}
+
+.navScroll .downloadButtonAction {
+  @apply absolute left-[40px]
+}
+
+.navScroll .downloadButtonAction .downloadButton {
+  @apply bg-primary rounded-[10px] h-[40px] w-[165px];
+  box-shadow:
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+

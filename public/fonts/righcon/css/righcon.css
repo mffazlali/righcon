@@ -1,0 +1,64 @@
+.ri,
+.rib,
+.riro,
+.rirs,
+.righcon-brands,
+.righcon-regular-outline,
+.righcon-regular-solid {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1 !important;
+  text-rendering: auto !important;
+}
+
+.rib,
+.riro,
+.rirs,
+.righcon-brands,
+.righcon-regular-outline,
+.righcon-regular-solid {
+  font-weight: 400 !important;
+}
+
+.ri-1x::before {
+  font-size: 1em !important;
+}
+
+.ri-2x::before {
+  font-size: 2em !important;
+}
+
+.ri-3x::before {
+  font-size: 3em !important;
+}
+
+.ri-4x::before {
+  font-size: 4em !important;
+}
+
+.ri-5x::before {
+  font-size: 5em !important;
+}
+
+.ri-6x::before {
+  font-size: 6em !important;
+}
+
+.ri-7x {
+  font-size: 7em !important;
+}
+
+.ri-8x {
+  font-size: 8em !important;
+}
+
+.ri-9x {
+  font-size: 9em !important;
+}
+
+.ri-10x {
+  font-size: 10em !important;
+}

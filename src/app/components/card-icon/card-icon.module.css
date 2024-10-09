@@ -1,0 +1,89 @@
+.cardIcon {
+  @apply flex justify-center items-center py-4 px-12 relative bg-white md:w-[160px] md:h-[160px] w-[160px] h-[160px] rounded-[10px] transition-all duration-[100ms] hover:bg-primary cursor-pointer;
+  box-shadow:
+          0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+          0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.cardIconRect {
+  @apply flex items-center justify-center bg-white h-[91px] w-[234px] rounded-[10px] px-6 py-4 transition-all duration-[100ms] hover:bg-primary cursor-pointer;
+  box-shadow:
+          0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+          0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.cardIcon .fontWrapper {
+  @apply h-full flex flex-col items-center justify-center transition-all duration-[100ms] gap-[0.375rem];
+}
+
+.cardIconRect .fontWrapper {
+  @apply w-full h-full relative flex flex-row items-center justify-center  transition-all duration-[100ms] gap-4;
+}
+
+.cardIcon .fontWrapperSkeleton {
+  @apply pt-[80px] flex flex-col items-center justify-center bg-white md:w-[160px] md:h-[160px] w-[160px] h-[160px] rounded-[10px] py-4 transition-all duration-[100ms];
+  box-shadow:
+    0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+
+/*.cardIcon .fontWrapperRect {*/
+/*  @apply flex flex-row items-center justify-center bg-white h-[91px] w-[234px] rounded-[10px] px-6 py-4 transition-all duration-[100ms] hover:bg-primary;*/
+/*  box-shadow:*/
+/*    0px 2px 6px 2px rgba(0, 0, 0, 0.15),*/
+/*    0px 1px 2px 0px rgba(0, 0, 0, 0.3);*/
+/*}*/
+
+.cardIcon .fontWrapper .fontIcon,.cardIcon .fontWrapperSkeleton .fontIcon {
+  @apply mx-auto text-[7.7rem] relative top-[0px] !flex items-center h-[50%];
+}
+
+.cardIconRect .fontWrapper .fontIcon {
+  @apply text-[7.7rem] w-[40%];
+}
+
+.cardIconRect .fontWrapper .fontInfo {
+  @apply flex flex-col w-[60%];
+}
+
+.cardIcon .fontWrapper .fontName {
+  @apply text-textBody text-center text-sm font-normal leading-[25px] transition-all flex justify-center items-center relative;
+}
+
+.cardIconRect .fontWrapper .fontName {
+  @apply text-textBody text-left text-sm font-normal leading-[25px] transition-all relative;
+}
+
+.cardIcon .fontWrapper .fontFarsiName {
+  @apply text-textBody text-center text-[0.8rem] font-normal leading-[25px] transition-all flex justify-center items-center relative truncate;
+}
+
+.cardIconRect .fontWrapper .fontFarsiName {
+  @apply text-textBody text-left text-[0.8rem] font-normal leading-[25px] transition-all relative truncate;
+}
+
+.cardIcon .fontWrapper .fontCode {
+  @apply capitalize text-textBody text-center text-sm font-bold leading-[25px] transition-all py-4 flex justify-center items-center h-[26px] relative;
+}
+
+.cardIconRect .fontWrapper .fontCode {
+  @apply capitalize text-textBody text-left text-sm font-bold leading-[25px] transition-all relative;
+}
+
+.cardIcon:hover .fontIcon::before,
+.cardIconRect:hover .fontIcon::before {
+  @apply text-white transition-all;
+}
+
+.cardIcon:hover .fontName,
+.cardIconRect:hover .fontName,
+.cardIcon:hover .fontFarsiName,
+.cardIconRect:hover .fontFarsiName {
+  @apply text-white;
+}
+
+.cardIcon .fontWrapper:hover .fontCode,
+.cardIconRect .fontWrapper:hover .fontCode {
+  @apply text-orange-400;
+}

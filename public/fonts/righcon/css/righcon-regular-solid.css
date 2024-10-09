@@ -1,0 +1,20 @@
+:root,
+:host {
+  --ri-font-regular-solid: normal 400 1em/1 'righcon regular solid';
+}
+
+@font-face {
+  font-family: 'righcon regular solid';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../../public/fonts/righcon/webfonts/regular/solid/righcon-solid-svg.ttf')
+  format('truetype');
+}
+
+.rirs,
+.righcon-regular-solid {
+  font-family: 'righcon regular solid' !important;
+  font-weight: 400 !important;
+  font-size: 70px !important;
+}

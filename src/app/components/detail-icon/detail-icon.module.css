@@ -1,0 +1,157 @@
+.detailIcon .iconFontWrapper {
+    @apply flex flex-wrap relative;
+}
+
+.detailIcon .iconFont {
+    @apply transition-all dark:bg-textBody bg-white relative text-[100px] lg:w-6/12 w-full h-[368px] font-iranIconAlpha border-[2px] border-solid border-[#f0f1f3] rounded-xl flex justify-center items-center py-20 px-40;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.50);
+}
+
+.detailIcon .iconFontWrapper .iconFont i {
+    @apply leading-[0.5] relative w-[256px] h-full flex justify-center items-center before:flex before:justify-center before:items-center before:relative before:h-full;
+}
+
+.detailIcon .iconFontWrapper .switchWrapper {
+    @apply absolute top-3 right-2;
+}
+
+.detailIcon .iconFontWrapper .backWrapper {
+    @apply absolute bottom-3 left-2;
+}
+
+.detailIcon .iconFontWrapper .backTargetWrapper {
+    @apply flex flex-col justify-center items-center p-2 transition-all rounded-[100px];
+}
+
+.detailIcon .iconFontWrapper .backTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.detailIcon .iconFontWrapper .iconActions {
+    @apply flex flex-col relative md:ps-6 ps-0 py-3 lg:w-6/12 w-full;
+}
+
+.detailIcon .iconFontWrapper .iconActions .brandAction {
+    @apply flex flex-row items-center relative;
+}
+
+.detailIcon .iconFontWrapper
+.iconActions
+.brandAction
+.brandTargetWrapper {
+    @apply flex flex-col justify-center items-center p-2 transition-all rounded-[100px];
+}
+
+.detailIcon .iconFontWrapper
+.iconActions
+.brandAction
+.backTargetWrapper
+.brandTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.detailIcon .iconFontWrapper .iconActions .brandAction .brandLink {
+    @apply ms-6;
+}
+
+.detailIcon .iconFontWrapper .iconActions .brandAction .brandLink span {
+    @apply text-[#BB8C00] text-right text-sm font-medium leading-5 tracking-tight underline;
+}
+
+.detailIcon .iconFontWrapper .iconActions .dropDownAction {
+    @apply w-full;
+}
+
+.detailIcon .iconFontWrapper .iconActions .dropDown {
+    @apply w-full;
+}
+
+.detailIcon .iconFontWrapper .iconActions .multiOptionAction {
+    @apply w-full mt-4;
+}
+
+.detailIcon .iconFontWrapper .iconActions .colorAndDropDownAction {
+    @apply w-full mt-1 flex flex-row;
+}
+
+.detailIcon .iconFontWrapper
+.iconActions
+.colorAndDropDownAction
+.colorPickerWrapper {
+    @apply w-6/12 pe-3;
+}
+
+.detailIcon
+.iconFontWrapper
+.iconActions
+.colorAndDropDownAction
+.dropDownWrapper {
+    @apply w-6/12 ps-3;
+}
+
+.detailIcon .iconFontWrapper .iconActions .downloadButtonActionWrapper {
+    @apply pt-5;
+}
+
+.detailIcon .iconFontWrapper .iconActions .downloadButtonActionWrapper .downloadButtonAction {
+    @apply flex items-start self-stretch gap-4;
+}
+
+.detailIcon
+.iconFontWrapper
+.iconActions
+.downloadButtonActionWrapper
+.downloadButtonAction
+.downloadButton {
+    @apply bg-primary rounded-[10px] h-[56px];
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.detailIcon
+.iconFontWrapper
+.iconActions
+.downloadButtonActionWrapper
+.glyphButtonAction {
+    @apply flex w-[56px] h-[56px] flex-col justify-center items-center gap-[10px] rounded-[10px] border-[2px] border-solid border-[#6750A4];
+}
+
+.detailIcon
+.iconFontWrapper
+.iconActions
+.downloadButtonActionWrapper
+.glyphButtonAction
+.glyphButton {
+    @apply flex w-[40px] h-[40px] p-[10px] gap-[10px] justify-center items-center transition-all rounded-[100px];
+}
+
+.detailIcon
+.iconFontWrapper
+.iconActions
+.downloadButtonActionWrapper
+.glyphButtonAction
+.glyphButton
+img {
+    @apply w-[20px] h-[20px];
+}
+
+
+.detailIcon .codeSnippetWrapper {
+    @apply bg-[#212529] rounded-[10px] h-auto mt-5 flex justify-center items-center cursor-pointer relative;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.detailIcon .codeSnippetWrapper .codeSnippet {
+    @apply text-white text-center text-base font-bold leading-[24px] md:px-6 md:py-8 px-3 py-8 whitespace-pre select-none relative overflow-x-auto w-full;
+    word-spacing: 0;
+}
+
+.detailIcon .codeSnippetWrapper .codeSnippet code {
+    @apply md:float-left float-none;
+}
+
+.detailIcon .codeSnippetWrapper .copyState {
+    @apply absolute text-[#9189a7] top-1;
+}

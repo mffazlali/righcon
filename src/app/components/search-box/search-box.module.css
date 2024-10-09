@@ -1,0 +1,36 @@
+.searchFrame {
+  @apply h-[130px] relative px-10 pt-10;
+}
+
+.searchFrame .searchBoxWrapper {
+  @apply flex items-center w-full flex-col;
+}
+
+.searchFrame .searchBoxWrapper .searchBox {
+  @apply flex flex-row items-center  lg:w-[800px] md:w-[650px] w-[400px] h-[45px] rounded-[16px] px-2;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+.searchFrame .searchBoxWrapper .searchBox .searchWrapper {
+  @apply flex justify-start w-full flex-row;
+}
+
+.searchFrame .searchBoxWrapper .searchWrapper .searchIconWrapper {
+  @apply ps-4 relative left-1;
+}
+
+.searchFrame .searchBoxWrapper .searchWrapper .searchIcon {
+  @apply h-[20px] w-[20px] relative text-[#49454F];
+}
+
+.searchFrame .searchBoxWrapper .searchWrapper .searchInputWrapper {
+  @apply ps-2 w-[95%];
+}
+
+.searchFrame .searchBoxWrapper .searchWrapper .searchInput {
+  @apply focus:border-0 focus:outline-0 text-base leading-[24px] relative w-full bg-transparent placeholder-lightSurface font-normal;
+}
+
+.searchFocus {
+  @apply outline-secondary outline-none;
+}

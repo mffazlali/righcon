@@ -1,0 +1,15 @@
+.section {
+    @apply relative xl:px-36 lg:px-8 md:px-4 px-0 bg-white;
+}
+
+.section .sectionWrapper {
+    @apply flex flex-row flex-wrap  relative;
+}
+
+.section .sectionWrapper .aside {
+    @apply w-2/12 h-full  relative;
+}
+
+.section .sectionWrapper .article {
+    @apply w-10/12;
+}

@@ -1,0 +1,891 @@
+[
+  {
+    "fontFarsiName": "بله",
+    "fontName": "bale",
+    "category": "پیام‌رسان‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E005",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "پیام‌رسان"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "ایتا",
+    "fontName": "eita",
+    "category": "پیام‌رسان‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E006",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "پیام‌رسان"
+    ],
+    "glyphs": [
+      {
+        "brands": "\uE006"
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "گپ",
+    "fontName": "gap",
+    "category": "پیام‌رسان‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E007",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "پیام‌رسان"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "آیگپ",
+    "fontName": "igap",
+    "category": "پیام‌رسان‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E008",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "پیام‌رسان"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "سروش",
+    "fontName": "sourosh",
+    "category": "پیام‌رسان‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E009",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "noncomposite",
+      "noblank",
+      "پیام‌رسان",
+      "uc",
+      "ALL",
+      "zzzz",
+      "otnone"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "روبیکا",
+    "fontName": "rubica",
+    "category": "شبکه اجتماعی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E010",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "پیام‌رسان"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک تجارت",
+    "fontName": "tejaratBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E011",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "noncomposite",
+      "بانکی‌",
+      "noblank",
+      "ALL",
+      "zzzz",
+      "otnone"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک آینده",
+    "fontName": "ayandehBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E012",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک مرکزی",
+    "fontName": "centralBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E013",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک کشاورزی",
+    "fontName": "keshavarziBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E014",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک ملی",
+    "fontName": "meliBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E015",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک ملت",
+    "fontName": "mellatBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E016",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک پارسیان",
+    "fontName": "parsianBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E017",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک سامان",
+    "fontName": "samanBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E018",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک دی",
+    "fontName": "dayBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E019",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک شهر",
+    "fontName": "shahrBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E020",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "آپ",
+    "fontName": "ap",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E021",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بانک پاسارگاد",
+    "fontName": "pasargardBank",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E022",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "سداد",
+    "fontName": "sadad",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E023",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "زرین‌پال",
+    "fontName": "zarinpal",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E024",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "بانکی‌"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کافه بازار دانلود",
+    "fontName": "bazzarDownload",
+    "category": "کسب‌و‌کارها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E025",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کافه بازار",
+    "fontName": "bazzar",
+    "category": "کسب‌و‌کارها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E026",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نکست‌پی",
+    "fontName": "nextpay",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E027",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "دیجی‌کالا",
+    "fontName": "digikala",
+    "category": "کسب‌و‌کارها",
+    "fontFamily": "righcon-brands",
+    "unicode": "E028",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت دادگستری",
+    "fontName": "IRI_Court_Gov",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E029",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت کشور",
+    "fontName": "IRI_CounMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E030",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت فرهنگ",
+    "fontName": "IRI_CulturMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E031",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت اقتصاد و دارایی",
+    "fontName": "IRI_FinanMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E032",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت دفاع",
+    "fontName": "IRI_DefenMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E033",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت نیرو",
+    "fontName": "IRI_EnergyMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E034",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت خارجه",
+    "fontName": "IRI_ForiegMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E035",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت بهداشت",
+    "fontName": "IRI_HealthMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E036",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت گردشگری",
+    "fontName": "IRI_GardeMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E037",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت صمت",
+    "fontName": "IRI_IndustMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E038",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت اطلاعات",
+    "fontName": "IRI_InformMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E039",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "جهاد کشاورزی",
+    "fontName": "IRI_Jahad",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E040",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نشان جمهوری اسلامی ایران",
+    "fontName": "IRI_Logo",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E041",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت نفت",
+    "fontName": "IRI_OilMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E042",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت راه و شهرسازی",
+    "fontName": "IRI_RoadsMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E043",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت علوم",
+    "fontName": "IRI_SienceMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E044",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت ورزش و جوانان",
+    "fontName": "IRI_SportMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E045",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماد جمهوری اسلامی ایران",
+    "fontName": "IRI_Symbol",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E046",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "وزارت کار، رفاه و امور اجتماعی",
+    "fontName": "IRI_WorkersMin",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E047",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کمیته امداد",
+    "fontName": "IRI_KomitEmdad",
+    "category": "دولتی",
+    "fontFamily": "righcon-brands",
+    "unicode": "E048",
+    "fontVersion": "",
+    "fontStatus": "Done",
+    "tags": [
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "علامت استاندارد",
+    "fontName": "standard",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E049",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "نمادتجاری",
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "سیب سلامت",
+    "fontName": "healthyApple",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E050",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "نماد",
+      "سلامت",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "پست",
+    "fontName": "post1",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E051",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "دولت",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "پست",
+    "fontName": "post2",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E052",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "دولت",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "شاپرک",
+    "fontName": "shaparak",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E053",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "بانکی",
+      "دولت",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "شبا",
+    "fontName": "sheba",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E054",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "بانکی",
+      "دولت",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "تیپاکس",
+    "fontName": "tipax",
+    "category": "نماد تجاری",
+    "fontFamily": "righcon-brands",
+    "unicode": "E055",
+    "fontVersion": "",
+    "fontStatus": "Backlog",
+    "tags": [
+      "تجارت",
+      "بانکی",
+      "دولت"
+    ],
+    "glyphs": [
+      {
+        "brands": ""
+      }
+    ]
+  }
+]

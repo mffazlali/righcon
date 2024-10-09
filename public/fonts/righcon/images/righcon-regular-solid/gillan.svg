@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="254.706mm" height="217.311mm"
+ viewBox="0 0 722 616"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Gillan</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M153,27 C152,41 152,54 159,63 C161,66 164,69 167,72 C173,78 180,85 180,95 C181,103 175,110 171,116 L169,119 C151,144 149,183 164,222 C172,242 183,261 194,280 C202,293 210,307 216,321 C221,330 225,340 225,351 C224,358 221,365 216,370 L270,406 C277,410 285,416 290,424 C293,430 294,437 295,443 C295,445 295,447 295,449 C298,465 307,481 320,491 L325,495 L323,497 C344,520 375,533 407,533 C415,533 424,532 432,530 C440,528 448,526 456,523 C471,518 487,513 502,513 C508,513 514,514 520,515 C525,517 530,519 535,522 C541,520 546,514 550,507 C553,498 554,488 554,480 C554,475 554,470 556,466 C559,459 565,455 570,453 C577,449 584,447 592,446 C564,420 540,392 519,361 L515,355 C508,344 501,335 493,326 C481,315 465,307 446,301 C426,296 405,294 384,292 C372,292 360,291 348,289 C305,283 275,267 258,243 C240,218 238,187 236,161 C234,142 231,123 228,104 C224,80 220,55 219,29 C207,35 196,42 185,51 L182,54 L178,51 C169,43 164,31 160,19 C157,12 155,6 152,1 C153,9 153,18 153,27 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

@@ -1,0 +1,63 @@
+.toolbar {
+    @apply xl:px-36 lg:px-8 md:px-4 px-0;
+    background: var(#FFF);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.08);
+    margin-bottom: 5px;
+ }
+
+.toolbar .toolbarWrapper {
+    @apply flex flex-row 
+}
+
+.toolbar .toolbarRight {
+    @apply w-8/12 flex flex-row
+}
+
+
+.toolbar .toolbarRight .rightTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.toolbar .iconLeft{
+    @apply flex flex-col justify-center items-center h-[46px] w-11 transition-all rounded-[100px]
+}
+
+.toolbar .toolbarLeft {
+    @apply w-4/12 flex flex-row justify-end pe-3
+}
+
+.toolbar .toolbarLeft .leftTarget {
+    @apply w-[24px] h-[24px];
+}
+
+.toolbar .toolbarRight .iconRight{
+@apply relative flex flex-col justify-center items-center h-[64px] w-[248px] transition-all
+}
+
+/* .toolbar .toolbarRight .iconRight:first-of-type span{
+@apply text-primary;
+} */
+
+.toolbar .toolbarRight .iconRight .lineTarget {
+    @apply relative w-[248px] h-[10px];
+}
+
+.toolbar .toolbarRight .iconRight:first-of-type:hover .lineTarget{
+    
+}
+
+.toolbar span{
+    @apply text-lightSurface text-[#49454F];
+}
+
+.toolbar .dropButton{
+}
+
+.toolbar .dropButtonIcon{
+}
+
+
+
+    
+
+

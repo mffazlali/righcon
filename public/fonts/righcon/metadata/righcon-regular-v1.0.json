@@ -1,0 +1,1050 @@
+[
+  {
+    "fontFarsiName": "نماد ریال",
+    "fontName": "rial1",
+    "category": "مالی و بانک‌‌ها",
+    "fontFamily": "righcon-regular",
+    "unicode": "E016",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماد ریال",
+    "fontName": "rial2",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-regular",
+    "unicode": "E018",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماد تومان",
+    "fontName": "toman1",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-regular",
+    "unicode": "E017",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماد تومان",
+    "fontName": "toman2",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-regular",
+    "unicode": "E019",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "اسکناس ایرانی",
+    "fontName": "cash",
+    "category": "مالی و بانک‌ها",
+    "fontFamily": "righcon-regular",
+    "unicode": "E006",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "فنجان چایی",
+    "fontName": "tea",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E002",
+    "fontStatus": "Done",
+    "tags": [
+      "نماد",
+      "ایرانی"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "برج آزادی",
+    "fontName": "azadiTower",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E003",
+    "fontStatus": "Done",
+    "tags": [
+      "نماد",
+      "ایرانی"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "تخت‌جمشید",
+    "fontName": "persPolice",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E004",
+    "fontStatus": "Done",
+    "tags": [
+      "نماد",
+      "ایرانی"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کباب",
+    "fontName": "kebab",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E001",
+    "fontStatus": "Done",
+    "tags": [
+      "نماد",
+      "ایرانی"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "ساخت ایران دایراه ای",
+    "fontName": "madInIran",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E005",
+    "fontStatus": "Done",
+    "tags": [
+      "مالی",
+      "ساخت‌ایران",
+      "نماد",
+      "ایرانی",
+      "تجاری"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نقشه ایران",
+    "fontName": "iranMap",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E008",
+    "fontStatus": "Done",
+    "tags": [
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نقشه ایران",
+    "fontName": "IranMapDetailed",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E007",
+    "tags": [
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "مسجد",
+    "fontName": "mosque",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E012",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کعبه",
+    "fontName": "kabba",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E010",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماز",
+    "fontName": "namaz",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E013",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کتاب قرآن",
+    "fontName": "quran1",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E014",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کتاب قرآن",
+    "fontName": "quran2",
+    "fontFamily": "righcon-regular",
+    "unicode": "E015",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "محراب",
+    "fontName": "mehrab",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E011",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "نماد حلال",
+    "fontName": "halalMark",
+    "category": "نماد‌های مذهبی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E009",
+    "fontStatus": "Done",
+    "tags": [
+      "عبادت",
+      "اسلامی",
+      "مقدس"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "البرز",
+    "fontName": "alborz",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E020",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "اردبیل",
+    "fontName": "ardabil",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E021",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "بوشهر",
+    "fontName": "boshehr",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E022",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "چهارمحال و بختیای",
+    "fontName": "chaharVaBakht",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E023",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "آذربایجان شرقی",
+    "fontName": "eazarBaijan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E024",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "اصفهان",
+    "fontName": "esfahan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E025",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "فارس",
+    "fontName": "fars",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E026",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "قزوین",
+    "fontName": "ghazvin",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E027",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "گیلان",
+    "fontName": "gillan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E028",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "گلستان",
+    "fontName": "golestan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E029",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "همدان",
+    "fontName": "hamedan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E030",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "هرمزگان",
+    "fontName": "hormozgan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E031",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "ایلام",
+    "fontName": "ilam",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E032",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کرمان",
+    "fontName": "kerman",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E033",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کرمانشاه",
+    "fontName": "kermanshah",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E034",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "خوزستان",
+    "fontName": "khozestan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E035",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کهکولیه و بویر احمد",
+    "fontName": "kohkVaBoir",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E036",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "کردستان",
+    "fontName": "kurdestan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E037",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "لرستان",
+    "fontName": "lorestan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E038",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "مرکزی",
+    "fontName": "markazi",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E039",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "مازندران",
+    "fontName": "mazandaran",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E040",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "خراسان شمالی",
+    "fontName": "nkhorasan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E041",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "قم",
+    "fontName": "qom",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E042",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "خراسان رضوی",
+    "fontName": "rkhorasan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E043",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "سمنان",
+    "fontName": "semnan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E044",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "سیستان و بلوچستان",
+    "fontName": "sistVaBaloch",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E045",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "خراسان جنوبی",
+    "fontName": "skhorasan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E046",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "تهران",
+    "fontName": "tehran",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E047",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "آدربایجان غربی",
+    "fontName": "wazarBaijan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E048",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "یزد",
+    "fontName": "yazd",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E049",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  },
+  {
+    "fontFarsiName": "زنجان",
+    "fontName": "zanjan",
+    "category": "نماد‌های ملی",
+    "fontFamily": "righcon-regular",
+    "unicode": "E050",
+    "fontStatus": "Done",
+    "tags": [
+      "استان",
+      "ایران",
+      "نقشه"
+    ],
+    "glyphs": [
+      {
+        "solid": ""
+      },
+      {
+        "outline": ""
+      }
+    ]
+  }
+]

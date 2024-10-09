@@ -1,0 +1,53 @@
+.newsletters{
+    @apply bg-primary md:h-[218px] h-[285px] md:block flex justify-center items-center box-border;
+}
+
+.newsletters .newslettersContainer {
+    @apply pt-14 md:px-24 px-0 md:flex inline-flex md:flex-row flex-col md:gap-0 gap-4;
+}
+
+.newsletters .newslettersContainer .newslettersTitlesWrapper {
+    @apply lg:w-6/12 md:w-7/12 w-full flex flex-col gap-4;
+}
+
+.newsletters .newslettersContainer .newslettersTitlesWrapper .newslettersTitle {
+    @apply rotate-[0.015deg] text-white text-right text-4xl font-bold leading-[44px] tracking-[-0.72px];
+}
+
+.newsletters .newslettersContainer .newslettersTitlesWrapper .newslettersSubTitle {
+    @apply text-[#DED8E1] text-xl font-medium leading-[30px];
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper{
+    @apply lg:w-6/12 md:w-5/12 w-full flex flex-col gap-4;
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .form{
+    @apply flex flex-row gap-6;
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .form .inputWrapper{
+    @apply relative lg:w-[85%] w-[97%];
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .form .input{
+    @apply w-full h-[46px];
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .form .buttonWrapper{
+    @apply relative lg:w-[15%] w-[3%];
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .form .button{
+    @apply h-[46px] py-[10px] lg:px-6 md:px-4 px-3 bg-warning rounded-[4px] text-black transition-all;
+}
+
+.newsletters .newslettersContainer .newslettersFormWrapper .info{
+    @apply text-[#E8DEF8] text-right text-xs font-medium leading-[18px];
+}
+
+
+
+
+
+

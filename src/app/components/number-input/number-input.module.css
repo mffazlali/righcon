@@ -1,0 +1,23 @@
+.emailInput {
+  @apply w-full
+}
+
+.emailInput .emailInputContainer {
+  @apply flex justify-start items-center gap-2 h-[46px] py-[10px] px-[14px] rounded-[8px] border border-solid border-[#D5DAE1] bg-white;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+
+.emailInput .emailInputContainer .iconWrapper {
+}
+
+.emailInput .emailInputContainer .iconWrapper .icon {
+  @apply h-[24px] w-[24px];
+}
+
+.emailInput .emailInputContainer .inputWrapper {
+@apply w-[90%]
+}
+
+.emailInput .emailInputContainer .inputWrapper .input {
+  @apply h-[24px] w-full text-[#667085] placeholder-[#667085] text-right text-base font-normal leading-6 focus:outline-none;
+}

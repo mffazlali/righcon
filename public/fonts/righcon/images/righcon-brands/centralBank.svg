@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="176.389mm" height="160.161mm"
+ viewBox="0 0 500 454"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>CentralBank</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M142,301 L56,215 C52,211 50,206 50,201 C50,196 52,191 56,187 L92,151 L92,189 C92,196 95,204 100,209 L192,301 L142,301 M139,231 L103,195 L103,54 L174,54 L147,80 C142,86 139,93 139,101 L139,231 M244,348 L103,348 L103,277 L129,304 C135,309 142,312 150,312 L280,312 L244,348 M250,293 C199,293 158,252 158,201 C158,150 199,109 250,109 C301,109 342,150 342,201 C342,252 301,293 250,293 M250,401 C245,401 240,399 236,395 L200,359 L238,359 C245,359 253,356 258,351 L350,259 L350,309 L264,395 C260,399 255,401 250,401 M150,143 L150,93 L236,7 C240,3 245,1 250,1 C255,1 260,3 264,7 L300,43 L262,43 C255,43 247,46 242,51 L150,143 M397,125 L371,98 C365,93 358,89 350,90 L220,90 L256,54 L397,54 L397,125 M397,348 L326,348 L353,322 C358,316 362,309 362,301 L362,171 L397,207 L397,348 M408,251 L408,213 C408,206 405,198 400,193 L308,101 L358,101 L444,187 C452,195 452,207 444,215 L408,251"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

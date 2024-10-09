@@ -1,0 +1,38 @@
+:root {
+    box-sizing: border-box !important;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    direction: rtl !important;
+    font-family: iransansx !important;
+  }
+
+  h1,h2,h3,h4,h5,h6,span{
+    font-family: iransansx !important;
+  }
+
+  input[type=checkbox] {
+    @apply accent-primary
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    /* background: red;  */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-secondary
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-secondaryHover
+  }
+
+  .buttons-container > button, a, input[type="submit"] {
+    margin-top: 0 !important;
+  }

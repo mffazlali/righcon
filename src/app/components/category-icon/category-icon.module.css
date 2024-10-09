@@ -1,0 +1,32 @@
+.categoryIcon {
+}
+
+.categoryIcon .categoryIconContainer {
+  @apply flex justify-center items-center flex-col flex-wrap;
+}
+
+.categoryIcon .categoryIconContainer .iconItems{
+    @apply flex justify-center items-center flex-row flex-wrap;
+}
+
+.categoryIcon .categoryIconContainer .iconItems .iconItemSmallWrapper {
+  @apply md:w-3/12 w-6/12 px-1;
+}
+
+.categoryIcon .categoryIconContainer .iconItems .iconItemSmallWrapper .iconItemSmall {
+  @apply w-[240px] h-[240px] rounded-[5px] mx-auto object-cover;
+  /* box-shadow:
+    0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3); */
+}
+
+.categoryIcon .categoryIconContainer .iconItems .iconItemLargeWrapper {
+  @apply md:w-6/12 w-full px-1;
+}
+
+.categoryIcon .categoryIconContainer .iconItems .iconItemLargeWrapper .iconItemLarge {
+  @apply w-[480px] h-[240px] rounded-[5px] mx-auto object-cover;
+  /* box-shadow:
+    0px 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0px 1px 2px 0px rgba(0, 0, 0, 0.3); */
+}

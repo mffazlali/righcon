@@ -1,0 +1,20 @@
+:root,
+:host {
+  --ri-font-regular: normal 400 1em/1 'righcon regular outline';
+}
+
+@font-face {
+  font-family: 'righcon regular outline';
+  font-style: normal !important;
+  font-weight: 400;
+  font-display: block;
+  src: url('../../public/fonts/righcon/webfonts/regular/outline/righcon-outline-svg.ttf')
+  format('truetype');
+}
+
+.riro,
+.righcon-regular-outline {
+  font-family: 'righcon regular outline' !important;
+  font-weight: 400 !important;
+  font-size: 70px !important;
+}
