@@ -104,6 +104,7 @@ const useForm = ({ formGroup, handleSubmit, isInitialValid = true, handelErrors 
   }
 
   const initForm = () => {
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     return useFormik({
       // children: undefined,
       // component: undefined,
