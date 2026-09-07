@@ -240,24 +240,4 @@ Content-Type: application/json
 
 ---
 
-## استقرار
-
-پروژه روی پلتفرم **[Liara](https://liara.ir/)** مستقر می‌شود:
-
-```bash
-# ورود به حساب Liara
-npm run liara-login
-
-# استقرار پروژه
-npm run liara-deploy
-```
-
-تنظیمات استقرار در فایل [`liara.json`](./liara.json) قرار دارد. خروجی پروژه به صورت `standalone` تنظیم شده است.
-
----
-
-## مشارکت
-
-برای تماس، گزارش باگ یا پیشنهاد آیکن جدید از طریق فرم تماس در سایت یا آدرس **righconinfo@gmail.com** اقدام کنید.
-
 </div>
