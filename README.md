@@ -1,36 +1,263 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div dir="rtl">
 
-## Getting Started
+# رایکن — اولین فونت آیکن ایرانی اسلامی
 
-First, run the development server:
+**Righcon** یک فونت آیکن تخصصی است که بر اساس استانداردهای جهانی طراحی شده و بیش از ۱۰۰ آیکن با مضامین ایرانی، اسلامی، مالی و برندهای داخلی را ارائه می‌دهد. این پروژه یک وب‌اپلیکیشن مبتنی بر **Next.js 14** است که امکان مرور، جستجو، سفارشی‌سازی و دانلود آیکن‌ها را فراهم می‌کند.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## ویدیوی رابط کاربری
+
+https://github.com/user-attachments/assets/f74e0c5b-02b1-41fa-b161-efef71fd35e7
+
+---
+
+## ویژگی‌های پروژه
+
+- 🔍 **جستجوی آیکن** — جستجو بر اساس نام انگلیسی، نام فارسی یا کد یونیکد
+- 🎨 **سفارشی‌سازی** — تغییر رنگ و اندازه آیکن به صورت لحظه‌ای
+- ⬇️ **دانلود SVG** — دانلود مستقیم فایل SVG با تنظیمات رنگ و سایز دلخواه
+- 📋 **کپی کد** — کپی کد HTML آماده برای استفاده در پروژه
+- 🌙 **حالت تاریک / روشن** — پشتیبانی از Dark Mode
+- 📱 **PWA** — نصب به عنوان اپلیکیشن روی موبایل و دسکتاپ
+- 🏷️ **فیلتر و مرتب‌سازی** — فیلتر بر اساس سبک (توپر/خطی) و دسته‌بندی
+- 📧 **خبرنامه** — ثبت ایمیل برای دریافت اطلاعیه‌های جدید
+
+---
+
+## خانواده‌های فونت
+
+### Righcon Brands
+آیکن‌های لوگوی برندها و پیام‌رسان‌های ایرانی:
+
+| آیکن | نام فارسی | نام |
+|------|-----------|-----|
+| | بله | bale |
+| | ایتا | eita |
+| | گپ | gap |
+| | و سایر برندهای ایرانی... | |
+
+### Righcon Regular
+آیکن‌های عمومی با دو سبک **توپر (Solid)** و **خطی (Outline)**:
+
+| دسته‌بندی | توضیح |
+|------------|-------|
+| مالی و بانک‌ها | نماد ریال، تومان و نمادهای بانکی |
+| سازمان‌ها | آیکن‌های سازمانی و تجاری ایرانی |
+| نمادهای اسلامی | آیکن‌های مرتبط با مفاهیم عبادی و اسلامی |
+| نمادهای ایرانی | آیکن‌های استان‌ها، نقشه ایران و نمادهای ملی |
+
+---
+
+## صفحات اپلیکیشن
+
+| مسیر | توضیح |
+|------|-------|
+| `/` | صفحه اصلی — نمایش آیکن‌های محبوب و دسته‌بندی‌ها |
+| `/search` | جستجو، فیلتر و مرتب‌سازی آیکن‌ها |
+| `/icon/[id]` | صفحه جزئیات آیکن با امکان سفارشی‌سازی و دانلود |
+| `/download` | صفحه دانلود فونت و مشاهده نسخه‌ها |
+| `/help` | راهنمای استفاده |
+| `/about` | درباره پروژه |
+| `/offline` | صفحه آفلاین (PWA) |
+
+---
+
+## نحوه استفاده از فونت
+
+### ۱. اضافه کردن CSS
+
+```html
+<link rel="stylesheet" href="/fonts/righcon/css/righcon-all.css" />
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+یا جداگانه:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```html
+<!-- برندها -->
+<link rel="stylesheet" href="/fonts/righcon/css/righcon-brands.css" />
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<!-- آیکن‌های توپر -->
+<link rel="stylesheet" href="/fonts/righcon/css/righcon-regular-solid.css" />
 
-## Learn More
+<!-- آیکن‌های خطی -->
+<link rel="stylesheet" href="/fonts/righcon/css/righcon-regular-outline.css" />
+```
 
-To learn more about Next.js, take a look at the following resources:
+### ۲. استفاده در HTML
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```html
+<!-- آیکن توپر -->
+<i class="righcon-regular-solid ri-rial1 ri-2x"></i>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- آیکن خطی -->
+<i class="righcon-regular-outline ri-toman1 ri-3x"></i>
 
-## Deploy on Vercel
+<!-- برندها -->
+<i class="righcon-brands ri-bale ri-2x"></i>
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### سایزهای پیش‌فرض
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| کلاس | اندازه |
+|------|--------|
+| `ri-1x` | 16px |
+| `ri-2x` | 32px |
+| `ri-3x` | 64px |
+| `ri-4x` | 128px |
+| `ri-5x` | 256px |
+
+---
+
+## راه‌اندازی پروژه
+
+### پیش‌نیازها
+
+- Node.js نسخه ۲۰ یا بالاتر
+- npm یا yarn
+
+### نصب وابستگی‌ها
+
+```bash
+npm install
+```
+
+### اجرای محیط توسعه
+
+```bash
+# اجرای محلی روی پورت 3200
+npm run dev-local
+
+# اجرای روی شبکه (تغییر IP در صورت نیاز)
+npm run dev-server
+```
+
+سپس مرورگر را روی [http://localhost:3200](http://localhost:3200) باز کنید.
+
+### ساخت نسخه تولید
+
+```bash
+npm run build
+npm run start
+```
+
+### بررسی کیفیت کد
+
+```bash
+# اجرای ESLint
+npm run lint
+
+# بررسی فرمت‌بندی با Prettier
+npm run prettier-check
+
+# اصلاح خودکار فرمت‌بندی
+npm run prettier-write
+```
+
+---
+
+## ساختار پروژه
+
+```
+righcon/
+├── public/
+│   ├── fonts/
+│   │   └── righcon/
+│   │       ├── css/           # فایل‌های CSS فونت
+│   │       ├── webfonts/      # فایل‌های TTF
+│   │       ├── images/        # فایل‌های SVG آیکن‌ها
+│   │       └── metadata/      # متادیتای JSON آیکن‌ها
+│   ├── medias/images/         # تصاویر رابط کاربری
+│   └── righcon.mp4            # ویدیوی معرفی
+│
+├── src/app/
+│   ├── (pages)/
+│   │   ├── about/             # درباره ما
+│   │   ├── download/          # صفحه دانلود
+│   │   ├── help/              # راهنما
+│   │   ├── icon/[id]/         # جزئیات آیکن
+│   │   ├── offline/           # صفحه آفلاین
+│   │   └── search/            # صفحه جستجو
+│   ├── @modal/                # Parallel Route برای مودال‌ها
+│   ├── api/
+│   │   ├── download/          # API دانلود SVG
+│   │   └── send/              # API ارسال ایمیل
+│   ├── components/            # کامپوننت‌های مشترک
+│   └── lib/
+│       ├── layout/            # Header و Footer
+│       ├── models/            # مدل‌های TypeScript
+│       ├── services/          # سرویس لود داده‌ها
+│       ├── stores/            # استیت گلوبال (Zustand)
+│       └── utilities/         # توابع کمکی
+```
+
+---
+
+## تکنولوژی‌ها
+
+| ابزار | نسخه | کاربرد |
+|-------|-------|--------|
+| [Next.js](https://nextjs.org/) | 14 | فریم‌ورک اصلی (App Router) |
+| [TypeScript](https://www.typescriptlang.org/) | 5 | تایپ‌سیستم |
+| [Tailwind CSS](https://tailwindcss.com/) | 3 | استایل‌دهی |
+| [Zustand](https://zustand-demo.pmnd.rs/) | 4 | مدیریت استیت |
+| [Formik](https://formik.org/) | 2 | مدیریت فرم‌ها |
+| [Axios](https://axios-http.com/) | 1 | درخواست‌های HTTP |
+| [Resend](https://resend.com/) | 4 | سرویس ارسال ایمیل |
+| [Cheerio](https://cheerio.js.org/) | 1 | پردازش SVG سمت سرور |
+| [Lodash](https://lodash.com/) | 4 | توابع کمکی |
+| [FontAwesome](https://fontawesome.com/) | 6 | آیکن‌های UI |
+
+---
+
+## API
+
+### دانلود SVG
+
+```
+GET /api/download?fontFamily={family}&fontName={name}&fontColor={hex}&fontSize={size}
+```
+
+| پارامتر | توضیح | مثال |
+|---------|-------|------|
+| `fontFamily` | نام خانواده فونت | `righcon-regular-solid` |
+| `fontName` | نام آیکن | `rial1` |
+| `fontColor` | رنگ (hex بدون #) | `6750a4` |
+| `fontSize` | سطح سایز (1-5) | `3` |
+
+### ارسال ایمیل
+
+```
+POST /api/send
+Content-Type: application/json
+
+{
+  "name": "نام کاربر",
+  "mobile": "09xxxxxxxxx",
+  "email": "user@example.com"
+}
+```
+
+---
+
+## استقرار
+
+پروژه روی پلتفرم **[Liara](https://liara.ir/)** مستقر می‌شود:
+
+```bash
+# ورود به حساب Liara
+npm run liara-login
+
+# استقرار پروژه
+npm run liara-deploy
+```
+
+تنظیمات استقرار در فایل [`liara.json`](./liara.json) قرار دارد. خروجی پروژه به صورت `standalone` تنظیم شده است.
+
+---
+
+## مشارکت
+
+برای تماس، گزارش باگ یا پیشنهاد آیکن جدید از طریق فرم تماس در سایت یا آدرس **righconinfo@gmail.com** اقدام کنید.
+
+</div>

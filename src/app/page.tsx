@@ -12,6 +12,7 @@ import EmailInput from './components/email-input/email-input'
 import SearchBox from './components/search-box/search-box'
 import Newsletters from './components/newsletters/newsletters'
 import CategoryIcon from './components/category-icon/category-icon'
+import { useEffect } from 'react'
 
 export default function Home() {
   const router = useRouter()
@@ -29,6 +30,23 @@ export default function Home() {
       description: 'طراحی بیش از 100 آیکون',
     },
   ]
+
+  useEffect(() => {
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').then(() => {
+        console.log('Service worker registered!')
+      }).catch((err) => {
+        console.log(err)
+      })
+    }
+
+    window.addEventListener('beforeinstallprompt', (event) => {
+      console.log('beforeinstallprompt fired')
+      event.preventDefault()
+      return false
+    })
+  }, [])
+
   const cardListSpecsEL = cardSpecs.map((card, index) => {
     return (
       <CardSpecs
